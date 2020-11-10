@@ -9,3 +9,14 @@ print(mylist[2]) # prints 3
 # prints out 1,2,3
 for x in mylist:
     print(x)
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
